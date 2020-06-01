@@ -1,0 +1,11 @@
+{
+  "name": "mqtt",
+  "version": "1.0.0",
+  "description": "Testing for mqtt",
+  "main": "index.js",
+  "author": "joao victor",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^4.1.0"
+  }
+}
